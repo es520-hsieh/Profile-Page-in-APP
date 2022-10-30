@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/helen/AndroidStudioProjects/SystemPage/app/src/main/res/drawable/back_btn.xml" value="0.1" />
+        <entry key="..\:/Users/helen/AndroidStudioProjects/SystemPage/app/src/main/res/drawable/gradient_background.xml" value="0.205" />
+        <entry key="..\:/Users/helen/AndroidStudioProjects/SystemPage/app/src/main/res/drawable/ic_launcher_background.xml" value="0.138" />
+        <entry key="..\:/Users/helen/AndroidStudioProjects/SystemPage/app/src/main/res/drawable/right_arrow_icon.xml" value="0.1815" />
+        <entry key="..\:/Users/helen/AndroidStudioProjects/SystemPage/app/src/main/res/drawable/round_back_app.xml" value="0.1095" />
+        <entry key="..\:/Users/helen/AndroidStudioProjects/SystemPage/app/src/main/res/drawable/round_back_notification.xml" value="0.1" />
+        <entry key="..\:/Users/helen/AndroidStudioProjects/SystemPage/app/src/main/res/drawable/round_back_notifications.xml" value="0.1" />
+        <entry key="..\:/Users/helen/AndroidStudioProjects/SystemPage/app/src/main/res/drawable/round_back_private_account.xml" value="0.1" />
+        <entry key="..\:/Users/helen/AndroidStudioProjects/SystemPage/app/src/main/res/drawable/round_back_question.xml" value="0.1095" />
+        <entry key="..\:/Users/helen/AndroidStudioProjects/SystemPage/app/src/main/res/drawable/round_back_secondary_100.xml" value="0.1075" />
+        <entry key="..\:/Users/helen/AndroidStudioProjects/SystemPage/app/src/main/res/drawable/round_back_security.xml" value="0.1" />
+        <entry key="..\:/Users/helen/AndroidStudioProjects/SystemPage/app/src/main/res/drawable/round_back_whiite10_20.xml" value="0.1" />
+        <entry key="..\:/Users/helen/AndroidStudioProjects/SystemPage/app/src/main/res/drawable/tag.xml" value="0.1815" />
+        <entry key="..\:/Users/helen/AndroidStudioProjects/SystemPage/app/src/main/res/drawable/tag1.xml" value="0.1815" />
+        <entry key="..\:/Users/helen/AndroidStudioProjects/SystemPage/app/src/main/res/drawable/tag2.xml" value="0.1815" />
+        <entry key="..\:/Users/helen/AndroidStudioProjects/SystemPage/app/src/main/res/layout/activity_10.xml" value="0.264" />
+        <entry key="..\:/Users/helen/AndroidStudioProjects/SystemPage/app/src/main/res/layout/activity_2.xml" value="0.14864864864864866" />
+        <entry key="..\:/Users/helen/AndroidStudioProjects/SystemPage/app/src/main/res/layout/activity_3.xml" value="0.2" />
+        <entry key="..\:/Users/helen/AndroidStudioProjects/SystemPage/app/src/main/res/layout/activity_4.xml" value="0.2" />
+        <entry key="..\:/Users/helen/AndroidStudioProjects/SystemPage/app/src/main/res/layout/activity_5.xml" value="0.264" />
+        <entry key="..\:/Users/helen/AndroidStudioProjects/SystemPage/app/src/main/res/layout/activity_6.xml" value="0.264" />
+        <entry key="..\:/Users/helen/AndroidStudioProjects/SystemPage/app/src/main/res/layout/activity_7.xml" value="0.2" />
+        <entry key="..\:/Users/helen/AndroidStudioProjects/SystemPage/app/src/main/res/layout/activity_8.xml" value="0.264" />
+        <entry key="..\:/Users/helen/AndroidStudioProjects/SystemPage/app/src/main/res/layout/activity_9.xml" value="0.264" />
+        <entry key="..\:/Users/helen/AndroidStudioProjects/SystemPage/app/src/main/res/layout/activity_activityedit.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/helen/AndroidStudioProjects/SystemPage/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/helen/AndroidStudioProjects/SystemPage/app/src/main/res/layout/activity_main2.xml" value="0.12335359675785208" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
